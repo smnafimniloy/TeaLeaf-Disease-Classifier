@@ -1,0 +1,12 @@
+﻿Rank,Model,Type,Params (M),FLOPs (G),Inference (ms),Test Acc,Test F1
+1,TeaBD-HybridNet (ours),Proposed,49.88,-,-,0.9511,0.9417
+2,swin_tiny,Baseline,27.52,4.37,9.9,0.9461,0.9352
+3,mobilevit_s,Baseline,4.94,1.42,8.7,0.9261,0.9201
+4,mambavision_t,Baseline,31.16,4.47,9.5,0.9298,0.9189
+5,deit_small,Baseline,21.67,4.24,4.7,0.9236,0.9119
+6,efficientnet_b3,Baseline,10.71,0.96,12.0,0.9248,0.9119
+7,resnet50,Baseline,23.52,4.13,5.4,0.9261,0.9113
+8,convnext_tiny,Baseline,27.83,4.45,5.1,0.9223,0.9058
+9,mobilenetv3_large,Baseline,4.21,0.22,5.8,0.9211,0.9049
+10,vit_small,Baseline,21.67,4.24,4.5,0.916,0.8974
+11,densenet201,Baseline,18.11,4.29,25.2,0.9048,0.8916

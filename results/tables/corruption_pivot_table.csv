@@ -1,0 +1,6 @@
+corruption,Severity 1,Severity 2,Severity 3,Severity 4,Severity 5
+brightness,0.9511,0.9398,0.9411,0.9336,0.9336
+contrast,0.9499,0.9486,0.9461,0.9411,0.9398
+gaussian_noise,0.9536,0.9461,0.9461,0.9424,0.9298
+jpeg_compression,0.9511,0.9449,0.9499,0.9424,0.901
+motion_blur,0.9511,0.9411,0.9386,0.9273,0.9085

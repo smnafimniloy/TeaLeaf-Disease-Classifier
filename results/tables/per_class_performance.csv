@@ -1,0 +1,10 @@
+Class,Support,Precision,Recall,F1-Score
+algal_leaf_spot,64,0.8657,0.9062,0.8855
+brown_blight,77,0.8947,0.8831,0.8889
+gray_blight,153,0.9363,0.9608,0.9484
+helopeltis,92,0.9271,0.9674,0.9468
+red_spider,78,0.9737,0.9487,0.961
+green_mirid_bug,193,0.9945,0.943,0.9681
+healthy,141,0.986,1.0,0.993
+Macro Avg,798,0.9397,0.9442,0.9417
+Weighted Avg,798,0.9521,0.9511,0.9513
